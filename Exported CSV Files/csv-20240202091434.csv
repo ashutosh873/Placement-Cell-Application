@@ -1,0 +1,5 @@
+"registrationNo","batch","name","college","status","DSAScore","WebDevScore","ReactScore","interviews.company","interviews.date","interviews.result"
+1,2020,"Ashutosh","VIT Vellore","placed",97,98,99,"Google","01/03/2024","Pass"
+1,2020,"Ashutosh","VIT Vellore","placed",97,98,99,"Microsoft","02/03/2024","Didnt_Attempt"
+2,2016,"Aditya","BITS Pilani","not_placed",99,100,100,"Google","01/03/2024","Fail"
+3,2021,"Prajwal","YCCE","not_placed",75,78,79,"Microsoft","02/03/2024","On_Hold"
