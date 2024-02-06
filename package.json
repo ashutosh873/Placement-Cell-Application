@@ -1,0 +1,31 @@
+{
+  "name": "placement_cell",
+  "version": "1.0.0",
+  "description": "An interface for the employees of the company to fill in the data into the database and then download it in CSV format. ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "PlacementCell"
+  ],
+  "type": "module",
+  "author": "Ashutosh Joshi",
+  "license": "ISC",
+  "dependencies": {
+    "@json2csv/plainjs": "^7.0.5",
+    "@json2csv/transforms": "^7.0.5",
+    "bcrypt": "^5.1.1",
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.3.1",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "express-json": "^1.0.0",
+    "fs": "^0.0.1-security",
+    "json-2-csv": "^5.0.1",
+    "json2csv": "^6.0.0-alpha.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.1.0"
+  }
+}
